@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuizaLabs", "LuizaLabs\LuizaLabs.csproj", "{504BE11E-7230-4AC0-9DC1-97D245E68656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuizaLabs.Tests", "LuizaLabs.Tests\LuizaLabs.Tests.csproj", "{11B6A5C9-EAD4-417E-9809-DC1C4A052C28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{504BE11E-7230-4AC0-9DC1-97D245E68656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504BE11E-7230-4AC0-9DC1-97D245E68656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504BE11E-7230-4AC0-9DC1-97D245E68656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504BE11E-7230-4AC0-9DC1-97D245E68656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11B6A5C9-EAD4-417E-9809-DC1C4A052C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B6A5C9-EAD4-417E-9809-DC1C4A052C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B6A5C9-EAD4-417E-9809-DC1C4A052C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B6A5C9-EAD4-417E-9809-DC1C4A052C28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B48308B6-C511-4422-BE6B-6B524799E7F1}
+	EndGlobalSection
+EndGlobal
